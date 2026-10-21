@@ -1,6 +1,6 @@
 {
   "name": "ask-form-mod-for-claude",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Claude Code mod: Claude's questions as a step-by-step form with back/forward, a recommended option and free-text answers. Installs with npx.",
   "keywords": ["claude", "claude-code", "mod", "plugin", "form", "askuserquestion"],
   "license": "MIT",

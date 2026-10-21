@@ -9,7 +9,7 @@ Un mod para [Claude Code](https://claude.com/claude-code) que dibuja las pregunt
 
 ## Instalación
 
-Necesitas Claude Code y Node 18 o superior.
+Necesitas Claude Code y Node 18 o superior. Funciona en macOS, Linux y Windows.
 
 ```bash
 npx ask-form-mod-for-claude
