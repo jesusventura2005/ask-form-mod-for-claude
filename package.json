@@ -1,0 +1,12 @@
+{
+  "name": "ask-form-mod-for-claude",
+  "version": "0.2.0",
+  "description": "Claude Code mod: Claude's questions as a step-by-step form with back/forward, a recommended option and free-text answers. Installs with npx.",
+  "keywords": ["claude", "claude-code", "mod", "plugin", "form", "askuserquestion"],
+  "license": "MIT",
+  "author": "Jesus Ventura",
+  "bin": { "ask-form-mod-for-claude": "bin/cli.js" },
+  "files": ["bin", "lib", "mod", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test test/" }
+}

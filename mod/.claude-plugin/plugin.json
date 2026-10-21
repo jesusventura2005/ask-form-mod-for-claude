@@ -1,0 +1,17 @@
+{
+  "name": "ask-form",
+  "version": "0.2.0",
+  "description": "Draws Claude's questions as a step-by-step form: back/forward between questions, a recommended option first, and a free-text answer.",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "enforceForm": {
+      "type": "boolean",
+      "title": "Always ask through the form",
+      "description": "Tell Claude to use the AskUserQuestion form whenever it needs to ask you something, instead of writing questions in the chat.",
+      "default": true
+    }
+  },
+  "author": {
+    "name": "Jesus Ventura"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "ask-form-local",
+  "owner": { "name": "Jesus Ventura" },
+  "plugins": [{ "name": "ask-form", "source": "./" }]
+}
